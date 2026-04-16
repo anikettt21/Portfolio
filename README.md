@@ -1,3 +1,9 @@
+
+<hr>
+<img width="100%"  src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=F79912;size=20&amp;lines=Hello,+I+am+aniket+gade+;Java+Full-Stack+Developer...;">
+<hr>
+
+
 # Interactive Professional Resume — Aniket Gade
 
 A high-level, interactive, and premium resume website built with a focus on modern aesthetics, smooth performance, and professional presentation.
